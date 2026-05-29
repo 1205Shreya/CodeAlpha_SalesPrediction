@@ -51,10 +51,6 @@ Linear Regression
 - Newspaper advertising contributes less compared to TV and Radio.
 - Increasing advertising budgets generally increases sales.
 
-## Author
-
-Developed as part of CodeAlpha Data Science Internship.
-
 ## Output Screenshots
 
 ### Sales Distribution
@@ -68,3 +64,7 @@ Developed as part of CodeAlpha Data Science Internship.
 ### Actual vs Predicted Sales
 
 ![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+
+## Author
+
+Developed as part of CodeAlpha Data Science Internship.
